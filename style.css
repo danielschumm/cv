@@ -1,0 +1,210 @@
+body{
+    background-color: #F0EBE3;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+}
+.titlepage{
+    background-color: #F0EBE3;
+    
+    padding: 250px;
+}
+.infopage{
+   background-color: #E4DCCF;
+   
+    padding: 250px;
+}
+.footer{
+    background-color: #7D9D9C;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 110%;
+    border-top: 1px;
+    margin-top: 10px;
+    border-color: aliceblue;
+}
+a{
+    text-decoration: none;
+color: #1bb43c;
+
+font-weight: bold;
+}
+a:hover{
+    font-size: 105%;
+    color: #238839;
+}
+
+.link1{
+    color: #7D9D9C;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: double;
+    border-radius: 5px;
+    margin: 0px;
+    border-color: #7D9D9C;
+}
+
+.link1:hover{
+    color: #7D9D9C;
+    background-color: #dcd4c8;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    
+}
+.hr1{
+    
+    text-align: center;
+    content: "\2022 \2022 \2022";
+    font-size: 50px;
+    color: #4F8BCA;
+    margin-top: 5px;
+    border-color:#7D9D9C;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.hr2{
+    margin: 0;
+    text-align: center;
+    content: "\2022 \2022 \2022";
+    font-size: 50px;
+    color: #4F8BCA;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-left: 50px;
+    padding-top: 1px;
+    padding-right: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 5px 5px;
+    border-color: black;
+    padding-bottom: 1px;
+    border-right: 0px;
+    border-left: 0px;
+    background-color:#7D9D9C;
+    border-style: double;
+}
+.hr4{
+    margin: 5px;
+    text-align: center;
+       color: #7D9D9C;
+    padding: 1px;
+    border-color: #7D9D9C;
+   border: 5px;
+    margin-bottom: 0px;
+    border-style:double;
+    
+    background-color: #E4DCCF;
+    padding-top: 0px;
+    margin-top: 50px;
+  
+    
+}
+.cloud1{
+    position:absolute;
+    padding-right: 10px;
+    left: 160px;
+    top: 60px;
+    width: 200px;
+
+}
+.cloud2{
+    position:absolute;
+    width: 200px;
+    right: 170px;
+    top: 350px;
+    transform: scaleX(-1);
+}
+.headshot{
+    border-radius: 50%;
+    border: 5px;
+    border-style: double;
+    border-color: #7D9D9C;
+    
+}
+.leadership{
+    padding-top: 50px;
+    column-count: 2;
+   padding-bottom: 100px;
+    
+}
+.languages{
+    padding-top: 50px;
+    column-count: 2;
+   
+    
+}
+.coms{
+    padding-top: 50px;
+    column-count: 2;
+    column-gap: 150px;
+    column-width: 150px;
+    
+}
+.computer1{
+    padding-bottom: 0px;
+    float: left;
+}
+.ugarch{
+    padding-bottom: 0px;
+    float: left;
+}
+.stadium{
+    padding-bottom: 0px;
+    float: left;
+
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+
+}
+dl{
+    margin: 10px;
+    padding-bottom: 150px;
+    padding-left: 10px;
+    column-span: none;
+}
+dd{
+    padding-bottom: 5px;
+    padding-left: 10px;
+    column-span: none;
+    
+}
+form{
+    column-count: 2;
+    column-gap: 15px;
+}
+.input{
+    float: right;
+
+}
+.text{
+    float: left;
+}
+.mess{
+    position: absolute;
+    top: 223px;
+    left: 142px;
+}
+.mess2{
+    position: absolute;
+    top: 220px;
+    left: 0px;
+}
+.emoji{
+    position: absolute;
+    top: 2025px;
+    left: 800px;
+}
